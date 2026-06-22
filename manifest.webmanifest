@@ -1,9 +1,10 @@
 {
-  "name": "TIPA Laminates Pricing Calculator",
-  "short_name": "TIPA Pricing",
-  "start_url": "./index.html",
+  "name": "TIPA Laminates Pricing System",
+  "short_name": "TIPA Laminates",
+  "start_url": "./index.html?v=final-one-first-v4",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#eefbfe",
+  "background_color": "#e9fbff",
   "theme_color": "#10bcd4",
   "icons": [
     {
