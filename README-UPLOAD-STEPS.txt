@@ -1,19 +1,18 @@
-TIPA Laminates Exact Lookup System - V7
+TIPA Exact Lookup Calculator - Excel Lookup Builder V8
 
-Upload ALL files in this ZIP to the root of GitHub repo:
-TIPA-Laminates-Pricing-System
+This package avoids mismatches by using Excel-calculated lookup values only.
 
-Files included:
+Upload to GitHub root:
 - index.html
 - manifest.webmanifest
 - service-worker.js
 - icon-192.png
 - icon-512.png
-- README-UPLOAD-STEPS.txt
+- web_lookup.csv
 
-Open after upload:
-https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/index.html?v=exact-lookup-v7
+Extra included:
+- Build_Web_Lookup_OfficeScript.ts
+- Updated_Model_with_Web_Lookup_Template.xlsx
 
-You must see: VERSION: EXACT LOOKUP V7
-
-Important: This version shows prices only for Excel-calculated lookup rows. It will not invent prices for combinations that are not in the exact table.
+Open:
+https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/index.html?v=lookup-builder-v8

@@ -1,7 +1,7 @@
 {
-  "name": "TIPA Laminates Exact Lookup System",
+  "name": "TIPA Exact Lookup Calculator",
   "short_name": "TIPA Lookup",
-  "start_url": "./index.html?v=exact-lookup-v7",
+  "start_url": "./index.html?v=lookup-builder-v8",
   "scope": "./",
   "display": "standalone",
   "background_color": "#e9fbff",
