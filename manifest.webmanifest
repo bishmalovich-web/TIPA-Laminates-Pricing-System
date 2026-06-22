@@ -1,7 +1,7 @@
 {
   "name": "TIPA Laminates Pricing System",
   "short_name": "TIPA Laminates",
-  "start_url": "./index.html?v=dropdown-final-v1",
+  "start_url": "./index.html?v=visible-dropdown-v2",
   "scope": "./",
   "display": "standalone",
   "background_color": "#e9fbff",

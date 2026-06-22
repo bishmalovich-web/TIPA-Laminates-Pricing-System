@@ -1,4 +1,4 @@
-TIPA Laminates Pricing System - DROPDOWN FINAL
+TIPA Laminates Pricing System - VISIBLE DROPDOWN V2
 
 Upload ALL files to the ROOT of repo:
 TIPA-Laminates-Pricing-System
@@ -15,6 +15,6 @@ Live link:
 https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/
 
 Important:
-- Delete/replace old files.
-- Make sure the HTML file is named exactly index.html.
-- If browser still shows old version, hard refresh or remove old app icon and reopen.
+- Replace all old files.
+- HTML must be named exactly index.html.
+- If old version still appears, hard refresh / clear site data / remove old app icon.
