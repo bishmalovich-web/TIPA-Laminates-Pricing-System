@@ -1,20 +1,8 @@
-TIPA Laminates Pricing System - THICKNESS DROPDOWN V3
+TIPA Laminates Pricing System - TOTAL THICKNESS DROPDOWN V4
 
-Upload ALL files to the ROOT of repo:
-TIPA-Laminates-Pricing-System
+Upload all files to repository root.
+Live link after upload:
+https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/index.html?v=total-thickness-dropdown-v4
 
-Files included:
-- index.html
-- manifest.webmanifest
-- service-worker.js
-- icon-192.png
-- icon-512.png
-- README-UPLOAD-STEPS.txt
-
-Live link:
-https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/index.html?v=thickness-dropdown-v3
-
-Important:
-- Replace all old files.
-- HTML must be named exactly index.html.
-- If old version still appears, hard refresh / clear site data / remove old app icon.
+You must see: VERSION: TOTAL THICKNESS DROPDOWN V4
+Total Thickness must be a dropdown with a blue border.
