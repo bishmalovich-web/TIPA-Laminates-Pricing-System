@@ -1,7 +1,8 @@
-TIPA Laminates Exact Calculator - CLEAN EXACT V10
+TIPA Laminates Calculator - EXACT REBUILD V11
 
-NO upload field inside the app.
-Calculator UI like before.
+Clean rebuild from the current uploaded Excel Laminates sheet.
+No upload field inside the app.
+Calculator layout like before.
 
 Upload ALL files to GitHub repo root:
 - index.html
@@ -12,8 +13,7 @@ Upload ALL files to GitHub repo root:
 - README-UPLOAD-STEPS.txt
 
 Open:
-https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/index.html?v=clean-exact-v10
+https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/index.html?v=laminates-exact-v11
 
 You must see:
-VERSION: CLEAN EXACT CALCULATOR V10
-NO FILE UPLOAD FIELD
+VERSION: LAMINATES EXACT REBUILD V11
