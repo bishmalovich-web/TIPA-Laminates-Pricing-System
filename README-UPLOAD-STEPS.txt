@@ -1,7 +1,7 @@
-TIPA Laminates Exact Calculator - CLEAN EXACT V9
+TIPA Laminates Exact Calculator - CLEAN EXACT V10
 
-This is the calculator UI version. No upload field inside the app.
-Prices are embedded exact Excel values only.
+NO upload field inside the app.
+Calculator UI like before.
 
 Upload ALL files to GitHub repo root:
 - index.html
@@ -12,4 +12,8 @@ Upload ALL files to GitHub repo root:
 - README-UPLOAD-STEPS.txt
 
 Open:
-https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/index.html?v=clean-exact-v9
+https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/index.html?v=clean-exact-v10
+
+You must see:
+VERSION: CLEAN EXACT CALCULATOR V10
+NO FILE UPLOAD FIELD

@@ -1,7 +1,7 @@
 {
   "name": "TIPA Laminates Exact Calculator",
   "short_name": "TIPA Exact",
-  "start_url": "./index.html?v=clean-exact-v9",
+  "start_url": "./index.html?v=clean-exact-v10",
   "scope": "./",
   "display": "standalone",
   "background_color": "#e9fbff",
