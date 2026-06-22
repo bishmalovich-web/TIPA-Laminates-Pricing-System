@@ -1,0 +1,20 @@
+{
+  "name": "TIPA Laminates Pricing Calculator",
+  "short_name": "TIPA Pricing",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eefbfe",
+  "theme_color": "#10bcd4",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
