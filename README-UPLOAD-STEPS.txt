@@ -1,11 +1,17 @@
-TIPA Laminates Pricing System - EXACT EXCEL ENGINE V5
+TIPA Laminates Pricing System - FULL ZIP EXACT V6
 
-Upload all files to repository root.
-Live cache-busting link:
-https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/index.html?v=exact-excel-engine-v5
+Upload ALL files in this ZIP to the root of GitHub repo:
+TIPA-Laminates-Pricing-System
 
-Required visual check:
-- VERSION: EXACT EXCEL ENGINE V5
-- Laminate dropdown
-- Total Thickness dropdown
-- 823 / 121µ / 5000 Kg / Printed / 5-8 / Europe to US / Bastin / 25% margin = €17.32 sell price
+Files included:
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- icon-192.png
+- icon-512.png
+- README-UPLOAD-STEPS.txt
+
+Open after upload:
+https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/index.html?v=full-zip-exact-v6
+
+You must see: VERSION: FULL ZIP EXACT V6
