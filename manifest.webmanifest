@@ -1,7 +1,7 @@
 {
-  "name": "TIPA Laminates Pricing System",
-  "short_name": "TIPA Laminates",
-  "start_url": "./index.html?v=full-zip-exact-v6",
+  "name": "TIPA Laminates Exact Lookup System",
+  "short_name": "TIPA Lookup",
+  "start_url": "./index.html?v=exact-lookup-v7",
   "scope": "./",
   "display": "standalone",
   "background_color": "#e9fbff",
