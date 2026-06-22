@@ -1,4 +1,4 @@
-TIPA Laminates Pricing System - VISIBLE DROPDOWN V2
+TIPA Laminates Pricing System - THICKNESS DROPDOWN V3
 
 Upload ALL files to the ROOT of repo:
 TIPA-Laminates-Pricing-System
@@ -12,7 +12,7 @@ Files included:
 - README-UPLOAD-STEPS.txt
 
 Live link:
-https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/
+https://bishmalovich-web.github.io/TIPA-Laminates-Pricing-System/index.html?v=thickness-dropdown-v3
 
 Important:
 - Replace all old files.
