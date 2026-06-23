@@ -1,0 +1,83 @@
+[
+  {
+    "case": [
+      "823",
+      "121",
+      760,
+      5000,
+      "Not Printed",
+      "0",
+      "Europe to US",
+      "Bastin",
+      20
+    ],
+    "app": {
+      "length_round": 22633,
+      "total_cost_round2": 58469.97,
+      "costkg_round6": 11.693995,
+      "sell_eur_round6": 14.032794,
+      "sell_usd_round2": 16.28
+    },
+    "excel_expected": {
+      "length_round": 22633,
+      "total_cost_round2": 58469.97,
+      "costkg_round6": 11.693995,
+      "sell_eur_round6": 14.032794,
+      "sell_usd_round2": 16.28
+    }
+  },
+  {
+    "case": [
+      "428",
+      "79",
+      760,
+      5000,
+      "Not Printed",
+      "0",
+      "Europe to US",
+      "Bastin",
+      20
+    ],
+    "app": {
+      "length_round": 30674,
+      "total_cost_round2": 79316.2,
+      "costkg_round6": 15.86324,
+      "sell_eur_round6": 19.035889,
+      "sell_usd_round2": 22.08
+    },
+    "excel_expected": {
+      "length_round": 30674,
+      "total_cost_round2": 79316.2,
+      "costkg_round6": 15.86324,
+      "sell_eur_round6": 19.035889,
+      "sell_usd_round2": 22.08
+    }
+  },
+  {
+    "case": [
+      "608",
+      "100",
+      900,
+      7000,
+      "Not Printed",
+      "0",
+      "Europe to Europe",
+      "Bastin",
+      20
+    ],
+    "app": {
+      "length_round": 28478,
+      "total_cost_round2": 44945.37,
+      "costkg_round6": 6.420767,
+      "sell_eur_round6": 7.704921,
+      "sell_usd_round2": 8.94
+    },
+    "excel_expected": {
+      "length_round": 28478,
+      "total_cost_round2": 44945.37,
+      "costkg_round6": 6.420767,
+      "sell_eur_round6": 7.704921,
+      "sell_usd_round2": 8.94
+    }
+  }
+]
