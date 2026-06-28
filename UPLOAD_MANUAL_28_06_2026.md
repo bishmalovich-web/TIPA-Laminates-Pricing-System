@@ -1,0 +1,1 @@
+Upload files to GitHub root: index.html, manifest.webmanifest, service-worker.js, icon-192.png. Gross Profit is percent: enter 20 for 20%, 25 for 25%.
