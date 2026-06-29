@@ -1,7 +1,7 @@
 {
   "validation": [
     {
-      "name": "Calc1 428 EU/EU",
+      "name": "428 EU/EU",
       "case": [
         "428",
         "79",
@@ -30,7 +30,7 @@
       "match": true
     },
     {
-      "name": "Calc2 428 EU/US",
+      "name": "428 EU/US",
       "case": [
         "428",
         "79",
@@ -59,7 +59,7 @@
       "match": true
     },
     {
-      "name": "Calc3 428 900 EU/EU",
+      "name": "428 900 EU/EU",
       "case": [
         "428",
         "79",
@@ -102,6 +102,5 @@
     "919",
     "923",
     "928"
-  ],
-  "missing_material_data": []
+  ]
 }

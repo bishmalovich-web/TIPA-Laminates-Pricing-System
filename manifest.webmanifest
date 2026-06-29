@@ -1,7 +1,8 @@
 {
   "name": "TIPA Laminates Calculator",
-  "short_name": "TIPA Laminates",
-  "start_url": "./index.html",
+  "short_name": "TIPA Calculator",
+  "start_url": "login.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#f4fbfd",
   "theme_color": "#10bcd6",
