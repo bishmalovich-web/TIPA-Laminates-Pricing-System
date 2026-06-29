@@ -1,0 +1,1 @@
+function logout(){sessionStorage.removeItem('auth');location='login.html';} console.log('App Loaded');
