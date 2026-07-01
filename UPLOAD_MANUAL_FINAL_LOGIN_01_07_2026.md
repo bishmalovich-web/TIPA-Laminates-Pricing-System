@@ -1,0 +1,1 @@
+Upload all files to GitHub root. Password: TIPA2026. If old app opens, hard refresh / clear site data because PWA cache may keep old version.
