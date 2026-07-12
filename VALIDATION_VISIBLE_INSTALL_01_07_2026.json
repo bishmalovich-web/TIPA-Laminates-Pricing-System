@@ -1,0 +1,26 @@
+{
+  "verified": "Install button is visible in normal page flow on login.html and index.html. Not dependent on browser beforeinstallprompt visibility.",
+  "password": "TIPA2026",
+  "pwa_files": [
+    "manifest.webmanifest",
+    "manifest.json",
+    "service-worker.js",
+    "icon-192.png",
+    "icon-512.png"
+  ],
+  "dropdown_laminates": [
+    "418",
+    "428",
+    "608",
+    "608 W",
+    "618",
+    "618 W",
+    "648",
+    "819",
+    "823",
+    "918",
+    "919",
+    "923",
+    "928"
+  ]
+}

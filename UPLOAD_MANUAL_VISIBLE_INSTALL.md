@@ -1,0 +1,1 @@
+Upload ALL files to GitHub root. This version has a large visible INSTALL APP button on login.html and index.html. Password: TIPA2026. If old version appears, clear site data / unregister service worker.
