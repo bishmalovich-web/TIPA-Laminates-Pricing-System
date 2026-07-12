@@ -1,0 +1,25 @@
+{
+  "pwa_checks": {
+    "manifest_start_url": "./login.html",
+    "service_worker_caches_login": true,
+    "install_button_in_login": true,
+    "install_button_in_app": true,
+    "icons_192_512": true
+  },
+  "password": "TIPA2026",
+  "dropdown_laminates": [
+    "418",
+    "428",
+    "608",
+    "608 W",
+    "618",
+    "618 W",
+    "648",
+    "819",
+    "823",
+    "918",
+    "919",
+    "923",
+    "928"
+  ]
+}

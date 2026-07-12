@@ -1,0 +1,1 @@
+Upload all files to GitHub root. Password: TIPA2026. Install button exists on login and inside app. If browser does not show prompt, clear site data/PWA cache and open via HTTPS GitHub Pages.
