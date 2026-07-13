@@ -1,12 +1,12 @@
 {
   "name": "TIPA Laminates Calculator",
   "short_name": "TIPA Calculator",
-  "id": "./tipa-laminates-calculator-visible-install/",
+  "id": "./tipa-dark-pwa/",
   "start_url": "./login.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f4fbfd",
-  "theme_color": "#10bcd6",
+  "background_color": "#071827",
+  "theme_color": "#071827",
   "prefer_related_applications": false,
   "icons": [
     {

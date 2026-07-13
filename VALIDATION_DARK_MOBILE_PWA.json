@@ -1,0 +1,26 @@
+{
+  "version": "dark mobile fixed",
+  "fixed": [
+    "dark theme",
+    "structure no horizontal cutoff",
+    "price column visible",
+    "large install button on login and app",
+    "password login TIPA2026",
+    "PWA manifest and service worker"
+  ],
+  "dropdown_laminates": [
+    "418",
+    "428",
+    "608",
+    "608 W",
+    "618",
+    "618 W",
+    "648",
+    "819",
+    "823",
+    "918",
+    "919",
+    "923",
+    "928"
+  ]
+}

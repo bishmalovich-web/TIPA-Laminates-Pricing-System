@@ -1,0 +1,1 @@
+Upload ALL files to GitHub root and replace existing. Password: TIPA2026. If old view shows, unregister service worker and clear site data. This version has dark mobile UI and visible Install App buttons.
